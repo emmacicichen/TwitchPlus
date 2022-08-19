@@ -1,4 +1,4 @@
-package com.myprojects.twitchplus;
+package com.myprojects.twitchplus.servelt;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.myprojects.twitchplus.external.TwitchClient;
